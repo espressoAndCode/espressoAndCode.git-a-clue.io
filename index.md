@@ -12,7 +12,7 @@ Take a look at this video for one very sad story. It could happen.
 
 Fortunately, there is a solution. Git and Github work together to help you keep track of your code files.
 
-[Git](https://git-scm.com/){:target="_blank"} is a version control system, a tool to record incremental changes to your source code. You install Git on your computer and use it to manage your work locally.
+[Git](https://git-scm.com/ target="_blank") is a version control system, a tool to record incremental changes to your source code. You install Git on your computer and use it to manage your work locally.
 
 [GitHub](https://github.com/){:target="_blank"} is an online platform for hosting Git repositories. You must create a free account on Github to use this service.
 
